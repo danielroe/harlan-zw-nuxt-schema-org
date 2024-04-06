@@ -68,7 +68,7 @@
     "@nuxtjs/i18n": "^8.1.1",
     "bumpp": "^9.4.0",
     "cheerio": "1.0.0-rc.12",
-    "eslint": "^8.57.0",
+    "eslint": "^9.0.0",
     "nuxt": "^3.10.3",
     "nuxt-icon": "^0.6.9",
     "typescript": "^5.4.2",
